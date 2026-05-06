@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated .gitignore to exclude build artifacts
 - Verified API endpoint response schema
 - Updated dependencies to latest stable versions
+
+## 2026-05-06
+- Consolidated duplicate helper functions
+- Added type hints to helper functions
