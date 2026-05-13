@@ -18,3 +18,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Consolidated duplicate helper functions
 - Added type hints to helper functions
+
+## 2026-05-13
+- Tested build on clean environment
+- Tidied up project structure
